@@ -8,7 +8,7 @@
 			"age": 12,
 			"breed": "Afghan Hound",
 			"image": "AfghanHound.jpg",
-			"sex": "male"
+			"sex": "Male"
 		},
 		{
 			"id": 12,
@@ -16,7 +16,7 @@
 			"age": 10,
 			"breed": "American Foxhound",
 			"image": "AmericanFoxhound.jpg",
-			"sex": "female"
+			"sex": "Female"
 		},
 		{
 			"id": 13,
@@ -24,7 +24,7 @@
 			"age": 8,
 			"breed": "Bichon Frise",
 			"image": "BichonFrise.jpg",
-			"sex": "female"
+			"sex": "Female"
 		},
 		{
 			"id": 14,
@@ -32,7 +32,7 @@
 			"age": 26,
 			"breed": "Barbado da Terceira",
 			"image": "BarbadoDaTerceira.jpg",
-			"sex": "male"
+			"sex": "Male"
 		},
 		{
 			"id": 15,
@@ -40,7 +40,7 @@
 			"age": 42,
 			"breed": "Beagle",
 			"image": "Beagle.jpg",
-			"sex": "male"
+			"sex": "Male"
 		},
 	]
 },
@@ -53,7 +53,7 @@
 			"age": 8,
 			"breed": "Chartreux",
 			"image": "chartreux.jpg",
-			"sex": "female"
+			"sex": "Female"
 		},
 		{
 			"id": 21,
@@ -61,7 +61,7 @@
 			"age": 10,
 			"breed": "American Shorthair",
 			"image": "americanShorthair.jpg",
-			"sex": "female"
+			"sex": "Female"
 		},
 		{
 			"id": 22,
@@ -69,7 +69,7 @@
 			"age": 3,
 			"breed": "Javanese",
 			"image": "javanese.jpg",
-			"sex": "female"
+			"sex": "Female"
 		},
 		{
 			"id": 23,
@@ -77,7 +77,7 @@
 			"age": 22,
 			"breed": "German Rex",
 			"image": "GermanRex.jpg",
-			"sex": "female"
+			"sex": "Female"
 		},
 		{
 			"id": 24,
@@ -85,7 +85,7 @@
 			"age": 12,
 			"breed": "Persian",
 			"image": "persian.jpg",
-			"sex": "female"
+			"sex": "Female"
 		},
 	]
 }
