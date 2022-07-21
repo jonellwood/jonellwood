@@ -1,7 +1,7 @@
 [
 {
 	"name": "DOGS",
-	"available": [
+	"products": [
 		{
 			"id": 11,
 			"name": "Ace",
@@ -51,7 +51,7 @@
 }
 {
 	"name": "CATS",
-	"available": [
+	"products": [
 		{
 			"id": 20,
 			"name": "Katy Purry",
