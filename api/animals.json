@@ -1,0 +1,102 @@
+[
+{
+	"name": "DOGS",
+	"available": [
+		{
+			"id": 11,
+			"name": "Ace",
+			"age": 12,
+			"breed": "Afghan Hound",
+			"image": "AfghanHound.jpg",
+			"sex": "male",
+			"puppies": false
+		},
+		{
+			"id": 12,
+			"name": "Argos",
+			"age": 10,
+			"breed": "American Foxhound",
+			"image": "AmericanFoxhound.jpg",
+			"sex": "female",
+			"puppies": true
+		},
+		{
+			"id": 13,
+			"name": "Hobbit",
+			"age": 8,
+			"breed": "Bichon Frise",
+			"image": "BichonFrise.jpg",
+			"sex": "female",
+			"puppies": false
+		},
+		{
+			"id": 14,
+			"name": "Jake",
+			"age": 26,
+			"breed": "Barbado da Terceira",
+			"image": "BarbadoDaTerceira.jpg",
+			"sex": "male",
+			"puppies": false
+		},
+		{
+			"id": 15,
+			"name": "Huckleberry",
+			"age": 42,
+			"breed": "Beagle",
+			"image": "Beagle.jpg",
+			"sex": "male",
+			"puppies": false
+		},
+	]
+}
+{
+	"name": "CATS",
+	"available": [
+		{
+			"id": 20,
+			"name": "Katy Purry",
+			"age": 8,
+			"breed": "Chartreux",
+			"image": "chartreux.jpg",
+			"sex": "female",
+			"kittens": false
+		},
+		{
+			"id": 21,
+			"name": "Burrito",
+			"age": 10,
+			"breed": "American Shorthair",
+			"image": "americanShorthair.jpg",
+			"sex": "female",
+			"kittens": true
+		},
+		{
+			"id": 22,
+			"name": "Wasabi",
+			"age": 3,
+			"breed": "Javanese",
+			"image": "javanese.jpg",
+			"sex": "female",
+			"kittens": true
+		},
+		{
+			"id": 23,
+			"name": "Bustopher Jones",
+			"age": 22,
+			"breed": "German Rex",
+			"image": "GermanRex.jpg",
+			"sex": "female",
+			"kittens": false
+		},
+		{
+			"id": 24,
+			"name": "Beta",
+			"age": 12,
+			"breed": "Persian",
+			"image": "persian.jpg",
+			"sex": "female",
+			"kittens": true
+		},
+	]
+}
+]
