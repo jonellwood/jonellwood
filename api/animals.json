@@ -7,43 +7,48 @@
 			"name": "Ace",
 			"age": 12,
 			"breed": "Afghan Hound",
+			"description": "This is a crazy dog",
 			"image": "AfghanHound.jpg",
-			"sex": "Male"
+			"sex": "male"
 		},
 		{
 			"id": 12,
 			"name": "Argos",
 			"age": 10,
 			"breed": "American Foxhound",
+			"description": "This is a cute dog",
 			"image": "AmericanFoxhound.jpg",
-			"sex": "Female"
+			"sex": "female"
 		},
 		{
 			"id": 13,
 			"name": "Hobbit",
 			"age": 8,
 			"breed": "Bichon Frise",
+			"description": "This dog has a funny name",
 			"image": "BichonFrise.jpg",
-			"sex": "Female"
+			"sex": "female"
 		},
 		{
 			"id": 14,
 			"name": "Jake",
 			"age": 26,
 			"breed": "Barbado da Terceira",
+			"description": "Looking for love in all the wrong places",
 			"image": "BarbadoDaTerceira.jpg",
-			"sex": "Male"
+			"sex": "male"
 		},
 		{
 			"id": 15,
 			"name": "Huckleberry",
 			"age": 42,
 			"breed": "Beagle",
+			"description": "I'll be your Huckleberry",
 			"image": "Beagle.jpg",
-			"sex": "Male"
+			"sex": "male"
 		},
 	]
-},
+}
 {
 	"name": "CATS",
 	"products": [
@@ -52,40 +57,45 @@
 			"name": "Katy Purry",
 			"age": 8,
 			"breed": "Chartreux",
+			"description": "This is my cat song",
 			"image": "chartreux.jpg",
-			"sex": "Female"
+			"sex": "female"
 		},
 		{
 			"id": 21,
 			"name": "Burrito",
 			"age": 10,
 			"breed": "American Shorthair",
+			"description": "Tacos",
 			"image": "americanShorthair.jpg",
-			"sex": "Female"
+			"sex": "female"
 		},
 		{
 			"id": 22,
 			"name": "Wasabi",
 			"age": 3,
 			"breed": "Javanese",
+			"description": "This is actually a Pokemon",
 			"image": "javanese.jpg",
-			"sex": "Female"
+			"sex": "female"
 		},
 		{
 			"id": 23,
 			"name": "Bustopher Jones",
 			"age": 22,
 			"breed": "German Rex",
+			"description": "No fresh mouth comment here. Not about Bustopher",
 			"image": "GermanRex.jpg",
-			"sex": "Female"
+			"sex": "female"
 		},
 		{
 			"id": 24,
 			"name": "Beta",
 			"age": 12,
 			"breed": "Persian",
+			"description": "Meow 🐈🐈🐈🐈🐈",
 			"image": "persian.jpg",
-			"sex": "Female"
+			"sex": "female"
 		},
 	]
 }
