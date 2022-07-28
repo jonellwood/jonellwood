@@ -7,6 +7,8 @@
 ### Certification Notes
 [VSA-Kaseya-Certified-Technician](https://github.com/jonellwood/VSA-Kaseya-Certified-Technician)
 
+[Kaseya-Certified-Technician-KCT-for-BMS](https://github.com/jonellwood/Kaseya-Certified-Technician-KCT-for-BMS/blob/main/README.md)
+
 ### Projects or Pages
 
 [Playground Site](https://jonellwood.dev)
