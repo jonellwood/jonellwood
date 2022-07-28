@@ -5,7 +5,7 @@
 - 📫 How to reach me ... jonellwood.dev is a site a made but email me jonellwood@gmail.com is best.
 
 ### Certification Notes
-[VSA Kaseya Certified Technician](VSA-Kaseya-Certified-Technician)
+[VSA-Kaseya-Certified-Technician](https://github.com/jonellwood/VSA-Kaseya-Certified-Technician)
 
 ### Projects or Pages
 
