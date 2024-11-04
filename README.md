@@ -9,7 +9,7 @@ I have been coding professionally for nearly 3 years. Changing career paths late
 * 🌍  I'm based in Charleston, SC
 * 🖥️  See my portfolio at [jonellwood dot dev](https://jonellwood.dev/)
 * ✉️  You can contact me at [jonellwood@gmail.com](mailto:jonellwood@gmail.com)
-* 🐱‍👓  You can read my blog about being vegan, coding, and other incohearant ramblings at [the unhealthy vegan](https://theunhealthyvegan.com/))
+* 🐱‍👓  You can read my blog about being vegan, coding, and other incohearant ramblings at [the unhealthy vegan](https://theunhealthyvegan.com/)
 * 🧠  I'm learning Svelte5 and using PHP more efficiently on existing codebases.
 * ⚡  I tell everyone I love JavaScript and don't like PHP, but I secretly really enjoy PHP. Shhhhh 🤐
 
