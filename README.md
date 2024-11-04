@@ -7,8 +7,9 @@ Wanna be developer and professional peanut wrestler
 I have been coding professionally for nearly 3 years. Changing career paths late in life brought me an appreciation for coding and the beauty of what web dev can be that would not have been possible with out my prior life and work experiences. I have a simple mission statement. "Do good through code." Make the world a better place. That's it. Could be a simple as passing on a some knowledge to some one asking a question, or inventing a tool that uses CPU's to process AI requests and the heat they generate is used to heat the homes of those who can not afford to do it themselves.
 
 * 🌍  I'm based in Charleston, SC
-* 🖥️  See my portfolio at [jonellwood dot dev](http://jonellwood.dev)
+* 🖥️  See my portfolio at [jonellwood dot dev](https://jonellwood.dev/)
 * ✉️  You can contact me at [jonellwood@gmail.com](mailto:jonellwood@gmail.com)
+* You can read my blog about being vegan, coding, and other incohearant ramblings at [the unhealthy vegan](https://theunhealthyvegan.com/))
 * 🧠  I'm learning Svelte5 and using PHP more efficiently on existing codebases.
 * ⚡  I tell everyone I love JavaScript and don't like PHP, but I secretly really enjoy PHP. Shhhhh 🤐
 
